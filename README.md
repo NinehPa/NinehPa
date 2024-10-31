@@ -18,7 +18,7 @@
 
 ⚡ Fun fact: I love eating lemons like oranges!
 
-💬 I’m passionate about: Building accessible and user-friendly websites and applications that solve real problems. I believe in the importance of creating software that is not only functional but also inclusive, diverse and enjoyable for all users.
+💬 I’m passionate about: Building accessible and user-friendly websites and applications that solve regular as well as security problems. I believe in the importance of creating software that is not only functional but also inclusive, diverse and safe for all users.
 
 ✨ Future Aspirations: I hope to specialize in full-stack development, focusing on building applications that integrate AI and machine learning. I aim to work on projects that have a meaningful impact on people's lives.
 
