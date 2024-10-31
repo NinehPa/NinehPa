@@ -18,11 +18,13 @@
 
 ⚡ Fun fact: I love eating lemons like oranges!
 
-💬 I’m passionate about: Building accessible and user-friendly websites and applications that solve real problems. I believe in the importance of creating software that is not only functional but also inclusive and enjoyable for all users.
+💬 I’m passionate about: Building accessible and user-friendly websites and applications that solve real problems. I believe in the importance of creating software that is not only functional but also inclusive, diverse and enjoyable for all users.
 
 ✨ Future Aspirations: I hope to specialize in full-stack development, focusing on building applications that integrate AI and machine learning. I aim to work on projects that have a meaningful impact on people's lives.
 
-✨ Community Involvement: I regularly attend local tech meetups, especially those made by and for women, to connect with other developers and learn from the community. Participating in these events has helped me grow my skills and expand my network. I love volunteering for Girl Tech (Fest), a Norwegian non-profit organization that helps spark a passion for tech among girls in fifth grade.
+✨ Community Involvement: I regularly attend local tech meetups, especially those made by and for women, to connect with other developers and learn from the community. 
+Participating in these events has helped me grow my skills and expand my network. 
+I love volunteering for [Girl Tech (Fest)](https://www.girltechfest.no/), a Norwegian non-profit organization that helps spark a passion for tech among girls in fifth grade.
 
 📚 Learning Resources: I’m currently studying at Kristiania University College but take online courses and certifications at [Scrimba](https://v2.scrimba.com) to deepen my understanding of JavaScript. I also enjoy following tech blogs and YouTube channels that focus on web development and programming. 
 
