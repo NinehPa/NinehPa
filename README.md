@@ -2,7 +2,7 @@
 
 ✨ I’m interested in reading, hiking, The Sims4, and horror movies.
 
-✨ I’m currently learning JavaScript, HTML & CSS and exploring frameworks like React and Python.
+✨ I’m currently learning JavaScript, HTML & CSS and exploring Python and frameworks like React.
 
 ✨ My tech stack includes:
 - Languages: JavaScript, HTML, CSS
